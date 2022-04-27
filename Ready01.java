@@ -1,5 +1,8 @@
-public class Ready01 {
-  public static void main (String[] args) {
-    System.out.println("Hello World")
+public class Ready {
+  public static void main(String[] args) {
+    int age;
+    age = 30;
+    System.out.println(age);
   }
+
 }
